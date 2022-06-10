@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceHost", "WCFServic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{A613A2FE-094C-4F5D-BE36-31F8117408D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroPersistence", "CadastroPersistence\CadastroPersistence.csproj", "{AD96B7CC-7FF9-4993-B060-5955EF50226F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A613A2FE-094C-4F5D-BE36-31F8117408D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A613A2FE-094C-4F5D-BE36-31F8117408D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A613A2FE-094C-4F5D-BE36-31F8117408D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD96B7CC-7FF9-4993-B060-5955EF50226F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD96B7CC-7FF9-4993-B060-5955EF50226F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD96B7CC-7FF9-4993-B060-5955EF50226F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD96B7CC-7FF9-4993-B060-5955EF50226F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
